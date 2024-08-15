@@ -42,3 +42,5 @@ Introduzir os conceitos de Data Warehouse e sua importância.
   - Definição de Data Warehouse
   - Arquitetura e componentes
   - Aplicações de Data Warehouse
+
+# AULA 03 - 22/08/2023
