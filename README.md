@@ -33,3 +33,12 @@ A primeira aula tem como objetivo apresentar a estrutura do curso, as ferramenta
 
 
 # AULA 02 - 15/08/2023
+
+**Aula 2: Conceitos de Data Warehouse**
+- **Objetivo da Aula:**
+Introduzir os conceitos de Data Warehouse e sua importância.
+
+- **Conteúdo:**
+  - Definição de Data Warehouse
+  - Arquitetura e componentes
+  - Aplicações de Data Warehouse
